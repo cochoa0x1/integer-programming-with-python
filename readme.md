@@ -4,6 +4,11 @@ Linear, quadratic, MIP, non convex... maybe. Basic introduction to applied combi
 
 Charles (Chris) Ochoa
 
+## Sections
+
+### 1. [linear programming 1](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/Linear%20Programming.ipynb)
+
+
 ## Setup
 create a virtual environment
 

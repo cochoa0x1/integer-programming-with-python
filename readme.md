@@ -6,12 +6,16 @@ Charles (Chris) Ochoa
 
 ## Sections
 
-### 1. [linear programming 1](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/Linear%20Programming.ipynb)
+### Linear Programming
+
+#### a. [Linear Programming Intro](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/Linear%20Programming.ipynb)
 The basics of modeling and solving linear programs with python PuLP.
 
-#### a. [factory routing (basic network flow)](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/factory_routing_problem.ipynb)
+#### b. [Network Flows](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/factory_routing_problem.ipynb)
 simple network flow done with pulp and networkx
 
+#### c. [Traveling Salesman Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/traveling_salesman.ipynb)
+Classic traveling salesman solved as an integer program
 
 ## Setup
 create a virtual environment

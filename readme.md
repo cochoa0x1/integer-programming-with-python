@@ -17,6 +17,9 @@ simple network flow done with pulp and networkx
 #### c. [Traveling Salesman Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/traveling_salesman.ipynb)
 Classic traveling salesman solved as an integer program
 
+#### d. [Multiple Salesman and Vehicle Routing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/traveling_salesman2_vehicle_routing.ipynb)
+Simple generalization of the traveling salesman
+
 ## Setup
 create a virtual environment
 

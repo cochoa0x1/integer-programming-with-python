@@ -23,6 +23,11 @@ Simple generalization of the traveling salesman
 #### e. [Knapsack Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/knapsack_problem.ipynb)
 Classic 0-1 Knapsack problem solved as an integer program
 
+
+#### f. [Bin Packing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/bin_packing.ipynb)
+Minimize the number of bins needed to pack items
+
+
 ## Setup
 create a virtual environment
 

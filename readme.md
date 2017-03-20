@@ -20,6 +20,9 @@ Classic traveling salesman solved as an integer program
 #### d. [Multiple Salesman and Vehicle Routing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/traveling_salesman2_vehicle_routing.ipynb)
 Simple generalization of the traveling salesman
 
+#### e. [Knapsack Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/knapsack_problem.ipynb)
+Classic 0-1 Knapsack problem solved as an integer program
+
 ## Setup
 create a virtual environment
 

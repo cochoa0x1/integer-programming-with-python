@@ -27,6 +27,8 @@ Classic 0-1 Knapsack problem solved as an integer program
 #### f. [Bin Packing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/bin_packing.ipynb)
 Minimize the number of bins needed to pack items
 
+#### g. [Logical Operations](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/logical_operations.ipynb)
+Model compex non-linear constraints and objectives via clever uses of binary variables.
 
 ## Setup
 create a virtual environment

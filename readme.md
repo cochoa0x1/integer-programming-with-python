@@ -1,8 +1,16 @@
 # Introduction to Mathematical Programming
 
-Linear, quadratic, MIP, non convex... maybe. Basic introduction to applied combinatorial optimization and some cool business problems.
+An introduction to (mostly) linear programming and combinatorial optimization problems in python.
 
 Charles (Chris) Ochoa
+
+currently a work in progress
+
+## Who is this book for?
+
+This book is for someone who already knows python, is not afraid of basic math (mostly math as a written language), and has the need to solve combinatorial problems. The book will cover linear programs both continuous and integer and some theory on the algorithms that solve these. It will also cover the PuLP open source linear modeling library, some convex optimization, and lots of case studies and examples along with discussions about improving performance. Also maybe some combinatorial game theory if I ever get the time and quadratic programming.
+
+
 
 ## Sections
 
@@ -30,18 +38,9 @@ Minimize the number of bins needed to pack items
 #### g. [Logical Operations](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/logical_operations.ipynb)
 Model compex non-linear constraints and objectives via clever uses of binary variables.
 
+
+
 ## Setup
-create a virtual environment
-
-```
-$ conda create --name math-prog python=3
-```
-
-activate it
-
-```
-$ source activate math-prog
-```
 
 install [PuLP](https://pythonhosted.org/PuLP/)
 

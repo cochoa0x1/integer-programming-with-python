@@ -17,7 +17,7 @@ This book is for someone who already knows python, is not afraid of basic math (
 #### a. [Linear Programming Intro](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/01-introduction/Linear%20Programming.ipynb)
 The basics of modeling and solving linear programs with python PuLP.
 
-#### b. [Network Flows](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/05-routes-and-schedules/factory_routing_problem.ipynb)
+#### b. [Network Flows](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/03.5-network-flows/factory_routing_problem.ipynb)
 simple network flow done with pulp and networkx
 
 #### c. [Traveling Salesman Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/05-routes-and-schedules/traveling_salesman.ipynb)

@@ -14,28 +14,26 @@ This book is for someone who already knows python, is not afraid of basic math (
 
 ## Sections
 
-### Linear Programming
-
-#### a. [Linear Programming Intro](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/Linear%20Programming.ipynb)
+#### a. [Linear Programming Intro](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/01-introduction/Linear%20Programming.ipynb)
 The basics of modeling and solving linear programs with python PuLP.
 
-#### b. [Network Flows](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/factory_routing_problem.ipynb)
+#### b. [Network Flows](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/05-routes-and-schedules/factory_routing_problem.ipynb)
 simple network flow done with pulp and networkx
 
-#### c. [Traveling Salesman Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/traveling_salesman.ipynb)
+#### c. [Traveling Salesman Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/05-routes-and-schedules/traveling_salesman.ipynb)
 Classic traveling salesman solved as an integer program
 
-#### d. [Multiple Salesman and Vehicle Routing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/traveling_salesman2_vehicle_routing.ipynb)
+#### d. [Multiple Salesman and Vehicle Routing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/05-routes-and-schedules/traveling_salesman2_vehicle_routing.ipynb)
 Simple generalization of the traveling salesman
 
-#### e. [Knapsack Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/knapsack_problem.ipynb)
+#### e. [Knapsack Problem](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/04-packing-and-allocation/knapsack_problem.ipynb)
 Classic 0-1 Knapsack problem solved as an integer program
 
 
-#### f. [Bin Packing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/bin_packing.ipynb)
+#### f. [Bin Packing](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/04-packing-and-allocation/bin_packing.ipynb)
 Minimize the number of bins needed to pack items
 
-#### g. [Logical Operations](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/logical_operations.ipynb)
+#### g. [Logical Operations](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/unsorted/logical_operations.ipynb)
 Model complex non-linear constraints and objectives via clever uses of binary variables.
 
 

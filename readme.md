@@ -1,4 +1,4 @@
-# Introduction to Mathematical Programming
+# Python Integer Programming
 
 An introduction to (mostly) linear programming and combinatorial optimization problems in python.
 
@@ -36,7 +36,7 @@ Classic 0-1 Knapsack problem solved as an integer program
 Minimize the number of bins needed to pack items
 
 #### g. [Logical Operations](http://nbviewer.jupyter.org/github/cochoa0x1/intro-mathematical-programming/blob/master/linear_programming/logical_operations.ipynb)
-Model compex non-linear constraints and objectives via clever uses of binary variables.
+Model complex non-linear constraints and objectives via clever uses of binary variables.
 
 
 
@@ -71,6 +71,3 @@ $ brew install glpk
 ```
 
 windows: sorry :( 
-
-
-

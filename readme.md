@@ -40,6 +40,12 @@ Model complex non-linear constraints and objectives via clever uses of binary va
 
 ## Setup
 
+'''
+conda env create -f environment.yml
+'''
+
+for editing notes see setup-notes.txt
+
 install [PuLP](https://pythonhosted.org/PuLP/)
 
 ```

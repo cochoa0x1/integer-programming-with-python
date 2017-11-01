@@ -1,0 +1,84 @@
+Free and open source software[edit]
+Name	License	Brief info
+ADMB	BSD	nonlinear optimization framework, using automatic differentiation
+ALGLIB	GPL	nonlinear analysis library, optionally using automatic differentiation. Cross-language: C++, C#, Pascal, VBA.
+ASCEND	GPL	mathematical modelling system
+BOBYQA	LGPL	An algorithm that seeks the least value of a nonlinear function subject to bound constraints, without using derivatives of the objective function.
+COBYLA	LGPL	An algorithm that seeks the least value of a nonlinear function subject to nonlinear inequality constraints, without using derivatives of the objective function or the constraints.
+COIN-OR SYMPHONY	Eclipse v.1	integer programming
+CUTEr	GPL	testing environment for optimization and linear algebra solvers
+Dakota Software Toolkit	LGPL	Dakota is a general-purpose software toolkit for performing systems analysis and design on high performance computers. Dakota provides algorithms for design optimization, uncertainty quantification, parameter estimation, design of experiments, and sensitivity analysis, as well as a range of parallel computing and simulation interfacing services.
+dlib	Boost	A stand-alone C++ library with a variety of linear and non-linear solvers for small and large scale problems
+GLPK	GPL	GNU Linear Programming Kit
+Google Optimization Tools	ASL	Google Optimization Tools (OR-Tools) is a fast and portable software suite for solving combinatorial optimization problems.
+IPOPT	CPL	large scale nonlinear optimization for continuous system (requires gradient)
+LINCOA	LGPL	An algorithm that seeks the least value of a nonlinear function subject to linear inequality constraints, without using derivatives of the objective function.
+MINUIT/MINUIT2	(L)GPL	multivariate function minimizer for real-valued functions with analytic or numerical gradients
+NEWUOA	LGPL	An algorithm that solves unconstrained optimization problems without using derivatives.
+OpenMDAO	ASL	Multidisciplinary Design, Analysis, and Optimization (MDAO) framework, written in the Python programming language. Developed by NASA Glenn Research Center, with support from the NASA Langley Research Center.
+OptaPlanner	ASL	OptaPlanner is a lightweight, embeddable planning engine written in Java™. It helps normal Java™ programmers solve constraint satisfaction problems efficiently. Under the hood, it combines optimization heuristics and metaheuristics with very efficient score calculation.
+Scilab	CeCILL	cross-platform numerical computational package and a high-level, numerically oriented programming language with free numerical optimization framework.
+TOLMIN	LGPL	An algorithm that minimizes a general differentiable nonlinear function subject to linear constraints.
+UOBYQA	LGPL	An algorithm that solves unconstrained optimization problems without using derivatives (for general usage, NEWUOA is recommended to replace UOBYQA)
+Proprietary software[edit]
+AIMMS – optimization modeling system, including GUI building facilities
+Altair HyperStudy – Multi-Disciplinary Design of Experiments, Optimization and Stochastic study software
+AMPL – modelling language for large-scale linear, mixed integer and nonlinear optimization
+ANSYS DesignXplorer - Design exploration and optimization capabilities for the ANSYS Workbench platform
+APMonitor – Modeling language and optimization suite for large-scale, nonlinear, mixed integer, differential and algebraic equations with interfaces to MATLAB, Python, and Julia
+Artelys Knitro – large scale nonlinear optimization for continuous and mixed-integer programming
+ASTOS – AeroSpace Trajectory Optimization Software for launcher, re-entry and generic aerospace problems
+BARON – for global optimization of algebraic nonlinear and mixed-integer nonlinear problems
+COMSOL – a multiphysics simulation software with an add-on optimization module that includes several gradient-free and gradient-based optimizers, such as SNOPT, COBYLA, BOBYQA, Neld-Mead, GCMMA, etc.
+CPLEX – integer, linear and quadratic programming
+FortMP – integer, linear and quadratic programming
+FortSP – stochastic programming
+GAMS – General Algebraic Modeling System
+Gurobi – integer, linear and quadratic programming
+HEEDS MDO – multidisciplinary design optimization using SHERPA, a hybrid, adaptive optimization algorithm.
+IMSL Numerical Libraries Linear, quadratic, nonlinear, and sparse QP and LP optimization algorithms implemented in standard programming languages C, Java, C# .NET, Fortran, and Python.
+IOSO – (Indirect Optimization on the basis of Self-Organization) is a multiobjective, multidimensional nonlinear optimization technology
+Kimeme – an open platform for multi-objective optimization and multidisciplinary design optimization
+LINDO (Linear, Interactive, and Discrete Optimizer) - a software package for linear programming, integer programming, nonlinear programming, stochastic programming, and global optimization. The "What's Best!" Excel add-in performs linear, integer, and nonlinear optimization using LINDO.
+LIONsolver – an integrated software for data mining, modeling, Learning and Intelligent OptimizatioN and reactive business intelligence
+modeFRONTIER – an integration platform for multi-objective and multi-disciplinary optimization, which provides a seamless coupling with third party engineering tools, enables the automation of the design simulation process, and facilitates analytic decision making.
+Maple (software) – Linear, quadratic, and nonlinear, continuous and integer optimization. Constrained and unconstrained. Global optimization with add-on toolbox.
+MATLAB – Linear, integer, quadratic, and nonlinear problems with Optimization Toolbox; multiple maxima, multiple minima, and non-smooth optimization problems; estimation and optimization of model parameters.
+Mathematica – large-scale multivariate constrained and unconstrained, linear and nonlinear, continuous and integer optimization.
+MIDACO Global optimization software based on evolutionary computing, MINLP, parallelization, large-scale ( Matlab, Python, C/C++, Fortran, Java, C#, R, Java, VBA, Excel ).
+ModelCenter – a graphical environment for integration, automation, and design optimization.
+MOSEK – linear, quadratic, conic and convex nonlinear, continuous and integer optimization.
+NAG – Linear, quadratic, nonlinear, sums of squares of linear or nonlinear functions; linear, sparse linear, nonlinear, bounded or no constraints; local and global optimization; continuous or integer problems.
+NMath – linear, quadratic and nonlinear programming
+IOSO – multidisciplinary design optimization, for computer-aided engineering
+OptimJ – Java based modeling language. Premium Edition includes support for Gurobi, Mosek and CPLEX solvers
+Optimus platform – a process integration and design optimization platform developed by Noesis Solutions
+optiSLang software solutions for CAE-based sensitivity analysis, optimization and robustness evaluation
+OptiY - a design environment providing modern optimization strategies and state of the art probabilistic algorithms for uncertainty, reliability, robustness, sensitivity analysis, data-mining and meta-modeling.
+OptiStruct – Award-winning CAE technology for conceptual design synthesis and structural optimization.
+PottersWheel – Parameter estimation in ordinary differential equations (Matlab toolbox, free for academic use).
+pSeven — software platform for automation of engineering simulation and analysis, multidisciplinary optimization and data mining, developed by DATADVANCE.
+SmartDO – multidisciplinary global design optimization, specialized in computer-aided engineering (CAE). using the direct global search approaches.
+SNOPT – large-scale optimization problems.
+Unscrambler Optimizer product formulation and process optimization software
+TOMLAB – TOMLAB supports global optimization, integer programming, all types of least squares, linear, quadratic and unconstrained programming for MATLAB. TOMLAB supports solvers like Gurobi, CPLEX, SNOPT, KNITRO and MIDACO.
+VisSim – a visual block diagram language for simulation and optimization of dynamical systems.
+WORHP – a large-scale sparse solver for continuous nonlinear optimization.
+XPRESS – integer, linear and quadratic and nonlinear programming
+Freeware/Free for academic use[edit]
+AIMMS – free for academic use.
+AMPL – free for academic use.
+APMonitor – free for academic or commercial use with interfaces to Python and MATLAB.
+ASTOS – free for academic use.
+CPLEX — free for academic use.
+Galahad library – free for academic use.
+GUROBI — free for academic use.
+LIONsolver – free license for academic use.
+MIDACO Global optimization software based on evolutionary computing, MINLP, parallelization, large-scale ( Matlab, Python, C/C++, Fortran, Java, C#, R, Java, VBA, Excel ).
+MINTO – integer programming solver using branch and bound algorithm. Freeware for personal use.
+MOSEK — free for academic use.
+OptimJ – Java based modeling language. Free Edition includes support for lp_solve, GLPK and LP or MPS file formats
+PottersWheel – Parameter estimation in ordinary differential equations (Free Matlab toolbox for academic use).
+SCIP – Free only for research purpose as a member of a non-commercial and academic institution.
+WORHP – free of charge for academic use.
+XPRESS — free for academic use.

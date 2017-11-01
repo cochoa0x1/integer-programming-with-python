@@ -1,0 +1,12 @@
+name: integer
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - jupyter
+  - matplotlib
+  - seaborn
+  - networkx
+  - pip:
+    - pulp
+    - wordcloud

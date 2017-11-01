@@ -1,0 +1,11 @@
+notes for editing
+
+add spell check:
+
+conda install -c conda-forge jupyter_contrib_nbextensions
+
+enable spellchecker extension
+
+add ability to pull python conde into markdown cells
+
+enable Python Markdown 
